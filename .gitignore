@@ -1,0 +1,13 @@
+.idea
+.cache
+.coverage
+.pytest_cache
+.eggs
+build
+dist
+venv
+jupytext.egg-info
+future
+*.pyc
+gits*
+.ipynb_checkpoints
